@@ -1,0 +1,9 @@
+store_code,store_name,city,region,store_format,floor_area_sqm,latitude,longitude
+FM-HYD-01,FreshMart Jubilee Hills,Hyderabad,Hyderabad Central,URBAN,3200,17.4239,78.412
+FM-HYD-02,FreshMart Gachibowli,Hyderabad,Hyderabad West,URBAN,2900,17.4401,78.3489
+FM-HYD-03,FreshMart Kukatpally,Hyderabad,Hyderabad North,RESIDENTIAL,2400,17.4948,78.3996
+FM-HYD-04,FreshMart Secunderabad,Secunderabad,Secunderabad,MALL,3600,17.4399,78.4983
+FM-HYD-05,FreshMart LB Nagar,Hyderabad,Hyderabad East,RESIDENTIAL,2100,17.3457,78.5522
+FM-HYD-06,FreshMart Miyapur,Hyderabad,Hyderabad West,SUBURBAN,1800,17.4967,78.3577
+FM-HYD-07,FreshMart Banjara Hills,Hyderabad,Hyderabad Central,URBAN,2700,17.4126,78.4392
+FM-HYD-08,FreshMart Uppal,Hyderabad,Hyderabad East,SUBURBAN,1950,17.4056,78.559
